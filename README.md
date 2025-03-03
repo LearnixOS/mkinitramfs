@@ -8,7 +8,7 @@ Usage:
   
 Options:
   -k <version>  custom kernel version (default: 4.19.66-Venom)
-  -o <output>   custom output name (default: initrd-4.19.66-Venom.img)
+  -o <output>   custom output name (default: initrd-4.19.66-LearnixOS.img)
   -i <init>     custom init file (default: /usr/share/mkinitramfs/init.in)
   -m <modules>  add extra modules (comma separated)
   -b <binaries  add extra binary (comma separated)
