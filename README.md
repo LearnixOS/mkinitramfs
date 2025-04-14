@@ -7,7 +7,7 @@ Usage:
   mkinitramfs [option] [argument]
   
 Options:
-  -k <version>  custom kernel version (default: 4.19.66-Venom)
+  -k <version>  custom kernel version
   -o <output>   custom output name (default: initrd-4.19.66-LearnixOS.img)
   -i <init>     custom init file (default: /usr/share/mkinitramfs/init.in)
   -m <modules>  add extra modules (comma separated)
